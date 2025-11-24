@@ -1,0 +1,62 @@
+SPDX-License-Identifier: Apache-2.0 AND CC-BY-SA-4.0
+
+This project uses a dual-license model:
+
+1. CODE & TOOLS: Apache License 2.0
+2. DOCUMENTATION & CONSTITUTION: Creative Commons Attribution-ShareAlike 4.0
+
+================================================================================
+
+APACHE LICENSE 2.0 (for code and tools)
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   Copyright 2025 Alexis M. Adams / AxiomHive
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+================================================================================
+
+CREATIVE COMMONS ATTRIBUTION-SHAREALIKE 4.0 (for documentation)
+
+Constitution of a Deterministic Assistant (CDA-v1.0) © 2025 by Alexis M. Adams
+is licensed under CC BY-SA 4.0. To view a copy of this license, visit 
+http://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
+- ShareAlike — If you remix, transform, or build upon the material, you
+  must distribute your contributions under the same license as the original.
+- No additional restrictions — You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
+
+================================================================================
+
+For clarity:
+
+- All .md documentation files (README.md, CONSTITUTION.md, etc.): CC BY-SA 4.0
+- All code files (.py, .js, .ts, etc.): Apache 2.0
+- Configuration and data files: Apache 2.0
+- Images and diagrams: CC BY-SA 4.0
+
+If you have questions about which license applies to a specific file,
+please contact: devdollzai@gmail.com
